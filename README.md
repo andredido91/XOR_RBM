@@ -1,0 +1,2 @@
+# XOR_RBM
+Xor_with_Restricted_Boltzman_machine
